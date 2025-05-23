@@ -31,8 +31,6 @@ Generate 5–10 **prompt templates**. Each one should include:
 **Template**:
 > “Rewrite this to sound more clear and professional, while keeping it short: {{message}}”
 
-**Shortcut**: `/refine`
-
 ## 🚀 Goal
 Make it easy for me to:
 - Think less and do more

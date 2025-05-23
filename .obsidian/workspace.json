@@ -8,36 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3706ba97d0288844",
+            "id": "7a8937abf27037a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "30_prompts/git-commit-message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "git-commit-message"
             }
-          }
-        ]
-      },
-      {
-        "id": "e8fd0d4145ac2ace",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a863a6780516c4f5",
+            "id": "f0d384004c165764",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "50_templates/resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resource"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "50_templates/resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for resource"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "50_templates/resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from resource"
             }
           },
           {
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "50_templates/resource.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of resource"
             }
           }
         ]
@@ -184,14 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3706ba97d0288844",
+  "active": "30f89a671b8c06cd",
   "lastOpenFiles": [
-    "prompts/translate-localize.md",
-    "prompts/summarize-this.md",
-    "prompts/eli5.md",
-    "prompts/correction-enhancement.md",
-    "prompts/a-prompt-factory.md",
-    "prompts",
-    "Welcome.md"
+    "30_prompts/a-prompt-factory.md",
+    "50_templates/resource.md",
+    "30_prompts/a-meta-promt.md",
+    "10_projects/nvim-kanadojo.md",
+    "50_templates/daily.md",
+    "50_templates/project.md",
+    "10_projects/Untitled",
+    "00__notes/2025-05-23.md",
+    "30_prompts/translate-localize.md",
+    "Welcome.md",
+    "30_prompts/ideas.md",
+    "30_prompts/correction-enhancement.md",
+    "60_archives",
+    "40_resources",
+    "30_prompts",
+    "00__notes",
+    "daily/2025-05-23.md",
+    "50_templates",
+    "00_home",
+    "60_Prompts",
+    "50_Templates",
+    "40_Archives",
+    "30_prompts/summarize-this.md",
+    "30_prompts/git-commit-message.md",
+    "30_prompts/eli5.md"
   ]
 }
